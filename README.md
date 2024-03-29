@@ -1,2 +1,2 @@
 # dice
-GitHib page link: https://github.com/KalpitSancheti/dice
+GitHib page link: https://kalpitsancheti.github.io/dice/
